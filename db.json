@@ -1,34 +1,22 @@
 {
   "tasks": [
     {
-      "text": "edwqdwqd",
-      "day": "wqewqe",
-      "reminder": true,
+      "text": "Walk the dog",
+      "day": "Apr 24th",
+      "reminder": false,
       "id": 1
     },
     {
-      "text": "dwqdqw",
-      "day": "ewqe",
-      "reminder": true,
+      "text": "Buy some clothes ",
+      "day": "Apr 14th",
+      "reminder": false,
       "id": 2
     },
     {
-      "text": "sdasd",
-      "day": "sdasd",
-      "reminder": false,
-      "id": 3
-    },
-    {
-      "text": "dwq",
-      "day": "dwq",
+      "text": "Watch a movie",
+      "day": "May 5th",
       "reminder": true,
-      "id": 4
-    },
-    {
-      "text": "vrv",
-      "day": "",
-      "reminder": false,
-      "id": 5
+      "id": 3
     }
   ]
 }
